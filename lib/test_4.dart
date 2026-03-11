@@ -1,3 +1,3 @@
-void(){
-  print("this is test-4");
+void main() {
+  print("this test -4");
 }
